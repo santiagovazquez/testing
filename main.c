@@ -2,5 +2,5 @@
 
 int main(void) {
 	printf("Hola Cuarentena");
-	return 0;
+	return 1;
 }
